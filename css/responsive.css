@@ -1,0 +1,163 @@
+@media (min-width: 0px) and (max-width: 575.98px) {
+    #header{
+        position: relative;
+    }
+    .header_img{
+        display: none;
+    }
+    .header_text{
+        width: 80%;
+    }
+    .logo{
+        width: 20%;
+        margin-top: 30px;
+    }
+    .header_img{
+        width: 0%;
+    }
+    .menu ul a{
+        padding: 0;
+    }
+    .menu_icon{
+        display: block;
+        margin-top: 30px;
+        margin-left: 80%;
+    }
+    .menu_item{
+        display: none;
+    }
+    .menu ul{
+        position: absolute;
+        display: block;
+        top: 60px;
+        left: 0px;
+        background-color: #ffffff;
+        width: 100%;
+    }
+    .menu ul a{
+        padding: 5px 5px 5px 20px;
+        border-bottom: 1px solid #cccccc;
+        width: 100%;
+        color: #222222;
+    }
+    .menu ul a:hover{
+        color: #ffff;
+    }
+    .banner_area{
+        width: 100%;
+        text-align: end;
+        margin-left: -20px;
+    }
+    .banner_area .graphic{
+        font-size:14px;
+        color: #ffffff;
+    }
+    .banner_area h1{
+        font-size: 30px;
+    }
+    .header_button a{
+        padding: 10px 15px;
+        font-size: 12px;
+    }
+    .header_button a:first-of-type{
+        margin-right: 10px;
+
+    }
+    .container{
+        /* background-color: blue; */
+    }
+    /* about area starts */
+    .About_logo a{
+        margin-right: 10px;
+        width: 30px;
+        height: 30px;
+        font-size: 15px;
+    }
+    .about_area h2{
+        font-size: 25px;
+        margin: 30px 0; 
+    }
+    .about_area p{
+        font-size: 12px;
+    }
+    /* paicing */
+    .single_paicing{
+        margin-bottom: 50px;
+    }
+    /* msg area starts */
+    .signle_msg i{
+        margin-top: 3px;
+        font-size: 12px;
+    }
+    .signle_msg p{
+        font-size: 12px;
+        margin-left: 10px;
+    }
+    /*slider arrow area strts */
+    .responsive .left_arrow {
+        left: 32%;
+    
+    }
+    .responsive .right_arrow {
+        right: 32%;
+    }
+    .testimonial_res .left_arrow {
+        left: 32%;
+        top: 85%;
+    
+    }
+    .testimonial_res .right_arrow {
+        right: 32%;
+        top: 85%;
+    }
+    
+}
+
+/* ============================ 575px area ends ============= */
+@media (min-width: 576px) and (max-width: 1199.98px) {
+    .header_img{
+        display: none;
+    }
+    .header_text{
+        width: 80%;
+    }
+    .logo{
+        width: 20%;
+        margin-top: 30px;
+    }
+    .header_img{
+        width: 0%;
+    }
+    .menu ul a{
+        padding: 0;
+    }
+    .menu_icon{
+        display: block;
+        margin-top: 30px;
+        margin-left: 90%;
+    }
+    .menu ul{
+        display: none;
+    }
+    .banner_area{
+        width: 100%;
+        text-align: end;
+        margin-left: -20px;
+    }
+    .banner_area .graphic{
+        font-size:14px;
+        color: #ffffff;
+    }
+    .banner_area h1{
+        font-size: 30px;
+    }
+    .header_button a{
+        padding: 10px 15px;
+        font-size: 12px;
+    }
+    .header_button a:first-of-type{
+        margin-right: 10px;
+
+    }
+    
+}
